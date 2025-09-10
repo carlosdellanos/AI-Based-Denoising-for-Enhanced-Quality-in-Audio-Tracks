@@ -47,7 +47,3 @@ WORKFLOW FOR TRAINING THE MODEL
    Compare clean, noisy, and denoised spectrograms in .svg format using compute_one_spec and plot_spectrograms.py
 
 
-
-PSNR (Peak Signal-to-Noise Ratio)
-
-R² Score
